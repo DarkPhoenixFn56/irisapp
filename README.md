@@ -20,7 +20,7 @@ Inspired by [Data Professor’s](https://youtu.be/JwSS70SZdyM) tutorial, this ap
 
 ## 🛠️ How to Run Locally
 ```bash
-git clone https://github.com/yourusername/iris-classifier-app.git
+git clone https://github.com/DarkPhoenixFn56/irisapp.git
 cd iris-classifier-app
 pip install -r requirements.txt
 streamlit run app.py
